@@ -1,1 +1,1 @@
-This project contains 2400 icons from http://www.fatcow.com/free-icons.
+This project contains 3000 icons from http://www.fatcow.com/free-icons.
